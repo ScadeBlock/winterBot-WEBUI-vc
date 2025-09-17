@@ -1,6 +1,7 @@
-sanic==19.12.5
+sanic==20.3.0
 requests
 granian
 psutil
+
 
 
