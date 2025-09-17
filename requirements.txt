@@ -1,0 +1,4 @@
+sanic==20.12.7
+requests
+granian
+psutil
